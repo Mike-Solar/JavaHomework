@@ -2,7 +2,7 @@
  * Person.java
  */
 
-package cn.mikesolar.javahomework.job01;
+package cn.mikesolar.javahomework.class01.job01;
 
 public class Person {
     private String name;

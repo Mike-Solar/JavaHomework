@@ -2,7 +2,7 @@
  * Cuboid.java
  */
 
-package cn.mikesolar.javahomework.job02;
+package cn.mikesolar.javahomework.class01.job02;
 
 public class Cuboid {
 

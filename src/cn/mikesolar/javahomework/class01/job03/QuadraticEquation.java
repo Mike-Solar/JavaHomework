@@ -2,11 +2,7 @@
  * QuadraticEquation.java
  */
 
-package cn.mikesolar.javahomework.job03;
-
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
+package cn.mikesolar.javahomework.class01.job03;
 
 public class QuadraticEquation {
 

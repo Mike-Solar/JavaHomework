@@ -2,9 +2,7 @@
  * TestQuadraticEquation.java
  */
 
-package cn.mikesolar.javahomework.job03;
-
-import java.util.List;
+package cn.mikesolar.javahomework.class01.job03;
 
 public class TestQuadraticEquation {
 

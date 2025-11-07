@@ -2,7 +2,7 @@
  * TestPoint.java
  */
 
-package cn.mikesolar.javahomework.job04;
+package cn.mikesolar.javahomework.class01.job04;
 
 public class TestPoint {
 
